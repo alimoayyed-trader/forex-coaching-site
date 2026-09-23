@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alimoayyed-trader.github.io/forex-coaching-site/sitemap.xml
